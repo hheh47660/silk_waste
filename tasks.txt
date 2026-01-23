@@ -1,0 +1,10 @@
+ - Code a deamon to make a sound when put laptop in charge 
+ - Code a deamon that pop ups this file
+ - Pratice daily for cyber challenge
+ - Search for a paper/research team at UniBo (can try with RISC-V team) --> write email
+ - Start PCB project
+ - Design your processor : https://leftarcode.com/posts/first-riscv-lessons/
+ - Write down final (Ntherlands Uni) Learning Agreement
+ - Write LeadTheFuture Application -> Done, waiing for new grades to be verbalized
+ - Study the Kernal Linux Foundation Course
+ - Insert reconnect button not top-right corner of waybar
