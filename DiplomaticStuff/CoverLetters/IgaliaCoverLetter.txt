@@ -1,0 +1,10 @@
+Hello,
+I found out about you from searching around people working as kernel developers on Linkedn. I read about your values and I can say I have the same ideas about free software and open source.
+I would like to be part of you also as an experience to improve my knowledge and skills.
+I'm a computer Engineering sophomore from Italia (Uni of Bologna). I do not have previous working experience but I joined a few teams in uni.
+I have been self learning many topics in the last five years like linux, shell scripting, python, go , OS, web dev, java, computer architecture. I did some little projects alone (a game with pygame, some websites for fun, plaied around with a procedural terrain generator in Unity, tried to create a 3d engine in C++ from scratch and more) and also contributed to my teams in uni (ROS2, Unity, some work on backend with Go, DNS).
+I would like to get an internship for this summer, potentially in remote.
+I like to learn and I want to be part of "something". 
+I mostly like low level programming even though I do not have much experience. Even web dev would be great.
+Hope you can take me into consideration,
+Simone Rea

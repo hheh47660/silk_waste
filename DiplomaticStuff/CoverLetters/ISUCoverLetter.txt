@@ -1,0 +1,20 @@
+Statement of Motivation
+To the ISU Admissions Committee,
+I first learned about the International Space University from a former student of yours who now works at the European Space Agency (ESA). After hearing about how the Space Studies Program (SSP) connects different fields, I realized it is exactly what I need to bridge the gap between my current studies and my future goals in the space industry.
+
+Academic Background and Practical Experience 
+I am currently a sophomore studying Computer Engineering at the University of Bologna. I have always been a dedicated student, maintaining a high GPA of $29.11/30$, but my education goes beyond the classroom. Much of what I know comes from years of self-study, exploring topics like Linux, operating systems, and computer architecture through resources like "Nand2Tetris" and "OS: Three Easy Pieces".
+I have also applied these skills in competitive university teams. With the ADM Team, I helped develop backend services for a DNS system using Go. Later, with Unibo Motorsport, I worked on software infrastructure for a driving simulator and used Python and ROS2 to design control interfaces for autonomous robots. These experiences taught me how to solve technical problems within a multidisciplinary team—a skill I know is vital for any space mission. I am also currently expanding my technical range through the CyberChallenge program to dive deeper into the world of cybersecurity.
+
+Future Goals: From Software to Microelectronics
+While my background is in computer engineering, my goal is to specialize in the "physical" side of technology. I plan to pursue a Master’s degree in Microelectronics at an international university like TU Delft. I am fascinated by how hardware must be designed to survive the extreme conditions of space, such as high radiation and temperature shifts. I want to move away from pure programming and focus on designing the resilient electronic components and sensors that future spacecraft will depend on.
+
+Why the SSP? 
+I am applying to the SSP because I want to understand the "big picture" of the space sector. As an engineer, it is easy to get stuck in the technical details, but I know that successful projects also require an understanding of space law, business, and international cooperation. The SSP’s focus on interdisciplinary and intercultural learning is perfect for me. I am excited to work on a Team Project where I can contribute my knowledge of software and electronics while learning from peers with entirely different backgrounds, such as biology or policy. I am strongly convinced that broad knowledge across different fields is vital to being a valuable resource for the industry.
+
+Conclusion
+I am a motivated and curious student who is not afraid of hard work. I want to build a career where I can contribute something meaningful to society through space exploration. Attending the SSP would be a major milestone for me, providing the international perspective and the network I need before I begin my Master’s studies.
+Thank you for your time and for considering my application.
+Sincerely,
+Simone Rea
+

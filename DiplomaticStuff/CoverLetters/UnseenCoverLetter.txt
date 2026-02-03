@@ -1,0 +1,9 @@
+Hello,
+I found out about you from searching around about space Agences on Linkedln. I read about what you do and I'm deeply interested in your field.
+I would like to work with you to launch my carrier toward the space industry: I'm still young and with few skills I can offer, but I still want to ask you for an opportunity.
+I'm a computer Engineering sophomore from Italia (Uni of Bologna). I do not have previous working experience but I joined a few teams in uni.
+I have been self learning many topics in the last five years like linux, shell scripting, python, go , OS, web dev, java, computer architecture. I did some little projects alone (a game with pygame, some websites for fun, plaied around with a procedural terrain generator in Unity, tried to create a 3d engine in C++ from scratch and more) and also contributed to my teams in uni (ROS2, Unity, some work on backend with Go, DNS).
+I would like to get an internship for this summer, either on site or remote. I'm eager to work both in embedded and software development e.g. website maintenance, kernel development, low level programming, scripting, infrastructures ecc...   
+I like to learn and I want to be part of "something".  
+Hope you can take me into consideration,
+Simone Rea

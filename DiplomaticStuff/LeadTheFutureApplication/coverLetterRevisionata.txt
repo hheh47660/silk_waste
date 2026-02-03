@@ -1,0 +1,15 @@
+Mi chiamo Simone Rea e sono uno studente del secondo anno di Ingegneria Informatica all’Università di Bologna. Provengo da un piccolo paese dell’Umbria e ho frequentato un liceo scientifico tradizionale. Nonostante questo percorso non fosse direttamente orientato all’informatica, ritengo che mi abbia fornito una forma mentis solida, forse migliore rispetto a quella che avrei acquisito in uno scientifico scienze applicate. All’università non ho incontrato particolari difficoltà, anche grazie al fatto che avevo già studiato informatica, algoritmi e architetture da autodidatta.
+
+Mi trovo ora in una fase della vita in cui sento il bisogno di fare qualcosa di più e, soprattutto, di dare una direzione più definita ai miei obiettivi. Non ho mai inseguito questo ambito per motivi economici: ciò che desidero è un lavoro appagante, che mi renda felice e che mi stimoli a dare il meglio di me stesso, contribuendo anche alla società.
+
+Il mio obiettivo attuale è sviluppare competenze versatili che mi permettano di adattarmi a più contesti lavorativi. In particolare, vorrei proseguire con un master in un’università estera di alto livello, come Delft o EPFL, così da ottenere una formazione solida e un buon curriculum. Intendo concentrarmi maggiormente sull’elettronica per colmare alcune mie lacune.
+
+Sono consapevole che l’università, da sola, non sia sufficiente: spesso l’approccio è troppo teorico. Per questo, nel tempo libero mi dedico a una formazione personale tramite progetti, libri, articoli e video. Durante gli anni del liceo ho realizzato diversi piccoli progetti, tra cui un emulatore di Spotify, un editor di testo CLI, un simulatore di Perlin Noise, un semplice engine grafico e altri lavori minori. All’epoca non utilizzavo Git o GitHub, quindi questi progetti non sono stati pubblicati.
+
+Ho anche studiato in autonomia attraverso corsi e libri, in particolare Nand2Tetris e OS: Three Easy Pieces. Nonostante abbia seguito molti tutorial, riconosco di non essere sempre riuscito a consolidare quanto appreso tramite progetti concreti.
+
+Arrivato a Bologna, ho partecipato a gruppi studenteschi come Unibo Motorsport e ADM, dai quali ho imparato moltissimo, sia a livello tecnico che umano. Tuttavia, per motivi logistici e di carico di studio, ho dovuto allontanarmi. Nel mio corso ho spesso aiutato altri studenti e continuo a fare ripetizioni a qualche collega.
+
+Rimpiango di non aver partecipato in passato a gare di informatica, anche a causa del contesto scolastico e territoriale da cui provengo. Sebbene l’università abbia migliorato la situazione, mi sento ancora un po’ isolato, anche perché non condivido l’entusiasmo generale per l’AI.
+
+Guardando al futuro, vorrei lavorare idealmente nel settore aerospaziale, con un profilo più vicino all’elettronica che alla programmazione. Sto valutando esperienze di scambio e, nel breve termine, tenterò la Cyber Challenge e cercherò un tirocinio estivo. Rimane infine da definire l’argomento della tesi, che potrebbe riguardare anche il Quantum Computing che nell'ultimo anno mi ha interessato al quanto.
