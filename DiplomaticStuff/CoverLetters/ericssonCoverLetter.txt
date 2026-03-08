@@ -1,0 +1,28 @@
+To the Hiring Team,
+
+I am a Computer Engineering sophomore at the University of Bologna. I found this internship opportunity while researching technical roles on LinkedIn.
+
+
+My technical background is a combination of formal education and consistent self-study. While I maintain a GPA of 29.11/30 , I have spent the last five years independently exploring topics such as Linux, operating systems, and computer architecture. This has provided me with a functional knowledge of several programming languages, including C++, Go, Python, and Java.
+
+
+I have applied these skills in practical, team-based environments:
+
+
+Backend & Infrastructure: With the ADM Team, I assisted in developing backend services for a DNS system using Go.
+
+
+Robotics & Control: With Unibo Motorsport, I worked on software infrastructure and used Python and ROS2 to design control interfaces for autonomous systems.
+
+
+Independent Projects: My personal work includes building a 3D engine from scratch in C++, procedural terrain generation in Unity, and various web development projects.
+
+I am interested in low-level programming, kernel development, and software infrastructure. My long-term objective is to specialize in the intersection of hardware and software, specifically within the field of microelectronics.
+
+I am a reliable and motivated student looking for an internship for the upcoming summer where I can contribute to ongoing projects while further developing my analytical skills.
+
+Thank you for your time and for considering my application.
+
+Sincerely,
+
+Simone Rea 
