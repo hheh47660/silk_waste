@@ -2,15 +2,24 @@
  - Search for a paper/research team at UniBo (can try with RISC-V team) --> write email
  - Start PCB project
  - Design your processor : https://leftarcode.com/posts/first-riscv-lessons/
- - Write down final (Ntherlands Uni) Learning Agreement -> Done, waiting for emails -> Wrote final draft, waiting for email and then can send
- - Study the Kernal Linux Foundation Course
  - Insert reconnect button not top-right corner of waybar
  - Find a thesis project
- - Learn more about poddible master programs: where, how much, applicatins requirements... and write a sum up
+ - Learn more about possible master programs: where, how much, applicatins requirements... and write a sum up -> Wrote down Delft, EPFL microelectronics summary
+ - Install and set up openclaw to automatically ysend applications, giving my cover letters, curriculum, github, linkedn and credentials. Also make it populate a google sheet page.
+ - To watch Disincanto, Frieren and Fire Force
 
 
 Finished:
  - Write LeadTheFuture Application -> Done, waiing for new grades to be verbalized -> sent!
  - Pratice daily for cyber challenge -> Tomorrow CyberChallenge -> Done!
+ - Write down final (Ntherlands Uni) Learning Agreement -> Done, waiting for emails -> Wrote final draft, waiting for email and then can send -> Done!
  - Code a deamon to make a sound when put laptop in charge -> Done!
-  
+ - Study the Kernal Linux Foundation Course -> Done!
+ 
+
+
+ Prep for GSoC:
+    - find project
+    - read and understand words you do not understand -> make a list of topics 
+    - define what I'm gonna do
+    - define what I need to do to apply

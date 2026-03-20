@@ -1,0 +1,20 @@
+Installing WRT
+Cloned repo
+Created virtual evnv and installed dependencies with "pip install ."
+
+I'm having some problems understading how to use the tool. 
+For example they should tell you that you need to replace path of:
+
+  "COURSES_FILE": "/tmp/courses.json",
+  "DEPTH_DATA": "/tmp/depth_data.nc",
+  "WEATHER_DATA": "/tmp/weather_data.nc",
+  "ROUTE_PATH": "/tmp/path.json",
+
+in the config.template.json [even though I know it's a template]
+They should provide config example directly in the wiki, along with visual demonstrations.
+
+
+Encurred in the error : 2026-03-03 21:30:49,826 - WRT.ShipConfig: INFO      Field: 'BOAT_SMCR_SPEED',  Error: Field required --> Needed to update the config
+
+To show the results with need to use the QGIS tool
+

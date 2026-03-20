@@ -1,0 +1,28 @@
+    "The rapidly warming Arctic is leading to increased rates of coastal erosion, placing hundreds of Alaska communities at the frontline of climate change. Understanding current rates of coastline change and accurately forecasting future changes is critical for communities to mitigate and adapt to these changes. Current modeling approaches typically use a simple linear model based solely on historical coastline positions to measure rates of change and extrapolate them into the future. In doing so, these models fail to capture the dynamic effects associated with decreasing sea ice, increasing annual wave energy, and increasing temperatures. To improve the quality of these coastal models, we need to increase the quantity of digitized coastlines, but manual photointerpretation is slow and laborious."
+
+
+The previously used 30m images and now are switching to 3-5m images. Model trained with previous images is not suitable for new dataset.
+The new dataset is labeled using NDWI (which is a method used to detect change in water levels using waves, ex. detect dry land from watery land)
+
+
+Potential areas of improvement:
+    - improve data training implementing UDM
+    - Use more data (up to now they are using data in the range 2017-2019)
+    - Improve data from locations with challenging conditions that alter data
+    - Improve data from steep regions, where shadow/prospective make msinterpretation arise
+    - Use SWIR and DEMs to optimize
+
+
+
+Outcome: 
+    The idea is define and improve the current model 
+
+
+
+Topics mentioned:
+    Usable Data Mask (UDM) : https://docs.planet.com/data/imagery/udm/
+                             It just tells you if a pixel in an image may be altered from things like clouds, aerosol and other conditions. It measues the affidability of the data.
+
+    Short-Wave Infreared (SWIR) : Infrared waves c
+    Digital Eleation Model (Dem) : Way to digitilize altitude 
+
