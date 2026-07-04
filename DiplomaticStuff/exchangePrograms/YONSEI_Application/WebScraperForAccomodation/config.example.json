@@ -1,0 +1,33 @@
+{
+  "portal_url": "https://portal.yonsei.ac.kr/ui/index.html",
+  "timezone": "Europe/Rome",
+  "run_at": "2026-06-02T03:00:00+02:00",
+  "housing_term": "2026-FALL [SK Global & Int'l House]",
+  "login": {
+    "student_id": "SAY26XXXXX",
+    "password": "PUT_YOUR_PORTAL_PASSWORD_HERE"
+  },
+  "application": {
+    "form_fields": {
+      "Mobile Phone": "+39...",
+      "Email": "your.email@example.com",
+      "Nationality": "Italy",
+      "Gender": "Male",
+      "Date of Birth": "YYMMDD"
+    },
+    "address": {
+      "postal_code": "0000",
+      "address": "Street, city, country",
+      "detail": ""
+    },
+    "first_priority": "SK Global House",
+    "agreements": [
+      "I agree",
+      "Agree"
+    ]
+  },
+  "submit": {
+    "auto_submit": false,
+    "pause_before_final_submit": true
+  }
+}

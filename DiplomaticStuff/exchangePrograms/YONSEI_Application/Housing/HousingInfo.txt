@@ -1,0 +1,34 @@
+ID=SAY2620204
+Password = 060124
+
+Sito =  https://portal.yonsei.ac.kr/
+Academic info system -> Dorm (shinchon) -> Application
+
+Inizio  10 a.m. 2th June = 3 del mattino del 2 giugno
+
+Fai login prima (verso le 2:30 almeno)
+
+
+Emergency contacts : +39 366 524 2800
+
+Guardian address: strada dell'aeroporto 1/p Orvieto 05018
+Devo premere sulla lente, premere direct input e mettere codice postale ed indirizzo
+
+
+Solo la prima choice
+
+Tick ogni sezione (4 sezioni di agreement)
+
+
+
+Bedtime : 11p.m.
+
+are you clean : yes
+
+how many times you clean : 2 weeks
+
+Smoking : no
+
+any sleeping habits : no
+
+serious illness : no
