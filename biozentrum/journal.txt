@@ -1,0 +1,26 @@
+July 20 Monday
+Started procedure for expansion:
+	Prepare flaskests with PFA and GA with right concentration
+	To put PFA and GA you need to use to chemical hood
+	Store that in Liquid Nitrogen
+	Then need to prepare the LLP coverslipts: use plasma to ionize them, put 50 microL of LLP (taken from the fridge) on the coverslipts,  
+	heat them at 37 degrees for 30 minutes and theh 1. wash with milliq 2. wait 5 minutes 3. dry for three times
+	Go to the plunge, use the tweenzers to take the coverlipt, press the button, dry, press the button again, take the tweenzer again being careful not 
+	to get out of the [liquid i don't remember] and quickly put the coverslipt in the flasket with PFA and GA
+	Keep in nitrogen and ~20 hours before needing them move from nitrogen to dry ice, being carefull not to hurt yourself if it explods
+Kept working on cryoTIGER python script. Now everything seems to look good.
+Measured expanded Chlorella and calulcated expansion ratio
+
+July 21 Tuesday
+Continued expansion:
+	Washed coversplits with EtOH from 100% to 25%, then created linking solution with AA and FA and PSB and put coverslips in it. 
+	Heated a 37 degrees for 3 hours. Late in the day started 
+
+Continued with sequences:
+	Took the sequences I found on the weekend and put them in Muscle to get them aligned (get a .ain-clustalw file) and put it in Galaxy/HMM tool to 
+	generate an HMM. Did this for all sequences I found.
+	With Davide looked at AlphaFold and JackHammer for proteins visualization and database search. Found UPI000917216B · A0A1M5KD72 and 
+	E2BXB1_HARSA as new proteins presenting fusilli fold
+
+
+July 22 Wednsday

@@ -1,0 +1,23 @@
+
+DEBUG=0
+
+if [[ $# -ne 0 ]]; then
+	if [[ $1 == "--debug" ]]; then
+		DEBUG=1			
+	else
+		echo "Usage: $0 [--debug]"
+		exit
+	fi
+fi
+
+ps -ax | grep gpclient | grep -v grep
+
+for i in $(ps -ax | grep gpclient | grep -v grep | awk '{print $1}'); do
+	if [[ $DEBUG -eq 1 ]]; then
+		echo "Killing process $i"
+	fi
+
+	if [[ $( ps -ax | grep $i | grep -v grep ) != "" ]]; then
+		sudo kill -9 $i
+	fi
+done

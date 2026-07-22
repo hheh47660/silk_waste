@@ -1,0 +1,3 @@
+identifier	seq length	start	end	period	copy#	multiple sequence alignment	consensus (no gaps)	consensus (w/gaps)	consensus error
+Thermogemmata_fonticola_A0A7V8VET0_central	276	176	219	21	2.00	ECVPVTKTICTYECVPVTKTVCAY ECRPVTKTICTYEC--VRKQV-A	ECRPVTKTICTYECVRKQVAY	ECRPVTKTICTYEC--VRKQV-AY	.14
+Thermogemmata_fonticola_A0A7V8VET0_central	276	65	100	20	2.00	ERVPVQKQVTVME-R-V--P ----VQKQITVMERRPVQKQ VTVN	ERVNVQKQITVMERRPVQKP	ERVNVQKQITVMERRPVQKP	.27

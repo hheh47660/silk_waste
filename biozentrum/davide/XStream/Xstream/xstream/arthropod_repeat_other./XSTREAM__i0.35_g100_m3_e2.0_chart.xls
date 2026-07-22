@@ -1,0 +1,2 @@
+start	end	period	copy#	multiple sequence alignment	consensus (no gaps)	consensus (w/gaps)	consensus error
+80	100	8	2.00	KYV-E-K--K-PG KYVGDTKCEKLPI	KYVDKKPG	KYV-D-K--K-PG	.29

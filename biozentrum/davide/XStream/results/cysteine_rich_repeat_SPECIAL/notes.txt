@@ -1,0 +1,1 @@
+With this parameters there are some long, strongly-matching sequences, but just on one sample
