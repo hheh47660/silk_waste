@@ -1,0 +1,18 @@
+Dear Hiring Team,
+
+While looking for research groups working on autonomous driving and machine perception, I came across your posting from the Institute of Transportation Systems (reference number 5817). The combination of sensor data processing, ROS-based software development, and hands-on testing on real research vehicles is exactly the direction I want to grow in.
+
+I am currently in my second year of a Bachelor's degree in Computer Engineering at the University of Bologna (GPA 29.11/30). I understand that this position requires a completed university degree, which I don't yet have. Even so, your institute's work appealed to me enough that I wanted to introduce myself and ask whether there might be opportunities for an internship or a student assistant position, either connected to this posting or more broadly within your group.
+
+My most relevant hands-on experience comes from Unibo Motorsport, where I contributed to the software infrastructure of a driving simulator and used Python and ROS2 to design control interfaces for autonomous systems — an environment conceptually close to what your institute works on. With the ADM Team, I also developed backend services for a DNS system in Go, which gave me a solid grounding in system architecture and teamwork.
+
+Much of my technical foundation comes from independent study: I taught myself Linux, operating systems, and computer architecture, largely through "Nand2Tetris" and "Operating Systems: Three Easy Pieces." I'm comfortable with C++, Python, and Go, work confidently in a Linux environment, and use Git regularly. My knowledge of machine learning is currently more theoretical than applied, and I'd welcome the chance to build practical experience with it in a research setting like yours.
+
+Longer term, I want to move toward microelectronics and the hardware/software boundary, likely through a Master's at an international university. Experience like what you're offering — sitting at the intersection of perception, software, and real vehicle integration — would be a meaningful step toward that.
+
+I'd be glad to hear whether there are suitable entry points for students earlier in their studies. I'd welcome the opportunity to discuss this further.
+
+Sincerely,
+Simone Rea
+
+simone.re.24.01@gmail.com | +39 320 068 0442
